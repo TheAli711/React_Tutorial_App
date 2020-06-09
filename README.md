@@ -1,9 +1,12 @@
 UPDATE :
+
     WEBSITE = stupidgame.surge.sh
 
 
 /************************************************/
+
 FOLLOWING IS AUTO-GENERATED TEXT:
+
 /************************************************/
 
 
