@@ -1,3 +1,12 @@
+UPDATE :
+    WEBSITE = stupidgame.surge.sh
+
+
+/************************************************/
+FOLLOWING IS AUTO-GENERATED TEXT:
+/************************************************/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
